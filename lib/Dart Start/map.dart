@@ -31,7 +31,7 @@ void main() {
   print(myDict);
 
 
-  // 챰고로 알앋루만한 주요 Map 기능_합치는 기능
+  // 챰고로 알앋루만한 주요 Map 기능_합치는 기능  
   Map<String, int> myDict2 = {'yunseo': 1, 'siyeon': 2, 'yeseol': 3};
 
   // Map에 특정 키/값이 있는지를 확인하는 기능
