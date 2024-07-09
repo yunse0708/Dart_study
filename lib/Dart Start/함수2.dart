@@ -8,8 +8,6 @@
 // 람다 함수
 // (매개변수) => 한 라인의 코드
 
-import 'dart:ffi';
-
 void main() {
   List<String> yunseo = ['a', 'b', 'c'];
   // 익명함수 활용
